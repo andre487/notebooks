@@ -2,3 +2,4 @@
 *.gz
 .ipynb_checkpoints
 *~
+data
