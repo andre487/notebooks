@@ -1,0 +1,4 @@
+*.bin
+*.gz
+.ipynb_checkpoints
+*~
