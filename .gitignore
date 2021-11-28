@@ -2,7 +2,6 @@
 *.gz
 .ipynb_checkpoints
 *~
-data
 .venv
 .idea
 *.iml
