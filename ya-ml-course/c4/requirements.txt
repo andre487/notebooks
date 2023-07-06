@@ -1,6 +1,6 @@
 pandas==0.23.0
 numpy==1.22.0
-scipy==1.1.0
+scipy==1.10.0
 matplotlib
 jupyter
 # statsmodels==0.9.0 # Should be installed separately
